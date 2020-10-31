@@ -9,8 +9,11 @@ To plan for the future the current solution needed to be improved to be more eff
 After analysing the results for all the stocks in 2017 and 2018 we conclude that 2017 outperformed 2018.  
 We can see in the 2017 report that the yearly return for each of the stocks was significantly higher compared to 2018.  The Daily return results are in green show a positive return for all but 1 stock. If you look at the 2018 report it shows that all but 2 stocks are red and had a negative return. 
 The DQ stock that Steve’s parents were interested in and it has the biggest decrease in return from 2017 to 2018, going from 199.4% down to -62.6%.  
+
 <img src="https://github.com/andralobo/Module2-Challenge/blob/main/VBA_Challenge_2017.png?raw=true">
+
 <img src="https://github.com/andralobo/Module2-Challenge/blob/main/VBA_Challenge_2018.png?raw=true">
+
 ### Speed Comparison 
 The old script completed in 0.83 seconds and the new refactored script ran at 0.22 seconds.  That means the new script ran 0.61 faster and provided the same results. Refactoring the code definitely improved the speed of processing and in the future, it will be scalable and be able to accommodate more data and run more efficiently.
 
